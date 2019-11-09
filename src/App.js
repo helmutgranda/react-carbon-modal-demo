@@ -37,7 +37,7 @@ function App() {
         }}
         {...props()}>
         <p className={`${prefix}--modal-content__text`}>
-          SHorter code for modal
+          New Text Change was added here..
         </p>
       </ModalWrapper>
       </header>
