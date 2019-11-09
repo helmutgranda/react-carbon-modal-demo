@@ -37,15 +37,7 @@ function App() {
         }}
         {...props()}>
         <p className={`${prefix}--modal-content__text`}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-          cursus fermentum risus, sit amet fringilla nunc pellentesque quis.
-          Duis quis odio ultrices, cursus lacus ac, posuere felis. Donec
-          dignissim libero in augue mattis, a molestie metus vestibulum. Aliquam
-          placerat felis ultrices lorem condimentum, nec ullamcorper felis
-          porttitor. Nunc at maximus purus. Curabitur sodales eros sit amet
-          dolor bibendum gravida. Sed efficitur, arcu imperdiet vestibulum
-          ultrices, risus diam ullamcorper arcu, sit amet gravida metus ligula
-          quis metus.
+          SHorter code for modal
         </p>
       </ModalWrapper>
       </header>
